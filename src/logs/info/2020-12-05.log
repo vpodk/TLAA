@@ -1,0 +1,4 @@
+2020-12-05 00:30:18 error: StatusCode : 409, Message : You're email test@email.com not found
+2020-12-05 00:30:18 error: StatusCode : 404, Message : Authentication token missing
+2020-12-05 17:18:31 error: StatusCode : 409, Message : You're email test@email.com not found
+2020-12-05 17:18:31 error: StatusCode : 404, Message : Authentication token missing

@@ -1,0 +1,19 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "/Users/evgeniyvinogradov/Development/marvins-area-of-improvement-api/src/logs/error/.30a8567bbfa5f3fef256d5b831dae28b1322af91-audit.json",
+    "files": [
+        {
+            "date": 1607146215366,
+            "name": "/Users/evgeniyvinogradov/Development/marvins-area-of-improvement-api/src/logs/error/2020-12-05.error.log",
+            "hash": "f4608fa8ff571af801114765f8d0012c"
+        },
+        {
+            "date": 1607267082967,
+            "name": "/Users/evgeniyvinogradov/Development/marvins-area-of-improvement-api/src/logs/error/2020-12-06.error.log",
+            "hash": "61fcea0f42098f34976e149db4f46c6f"
+        }
+    ]
+}
