@@ -12,13 +12,10 @@ class CoinsService {
         1: ~~(+totalNum % 2),
         2: ~~(dollars / 2),
       },
-      foos: {
-        1: +(1 === cents),
-        5: +(5 === cents),
-        10: +(10 === cents),
-        20: +(20 === cents),
-        50: +(50 === cents),
-      }
+      foos: [1, 5, 10, 20, 50].reduce((foos, num) => {
+        foos[num] = +(num === cents);
+        return foos;
+      }, {})
     };
 
     return coinsDto;
